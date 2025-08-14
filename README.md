@@ -271,7 +271,7 @@ This project is for educational purposes as part of the ALX curriculum.
 
 ## Acknowledgments
 
-- Rick and Morty API team for providing the GraphQL endpoint
+- Rick and Morty API team for providing the GraphQL endpoint.
 - Apollo GraphQL team for excellent tooling
 - Next.js team for the React framework
 - Tailwind CSS for the styling framework
